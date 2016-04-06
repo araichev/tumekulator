@@ -1,5 +1,6 @@
 appnope==0.1.0
 backports-abc==0.4
+charts==0.4.6
 cycler==0.10.0
 decorator==4.0.9
 gnureadline==6.3.3
@@ -14,7 +15,6 @@ jupyter-client==4.2.2
 jupyter-console==4.1.1
 jupyter-core==4.1.0
 MarkupSafe==0.23
-matplotlib==1.5.1
 mistune==0.7.2
 nbconvert==4.1.0
 nbformat==4.0.1
@@ -36,3 +36,4 @@ six==1.10.0
 terminado==0.6
 tornado==4.3
 traitlets==4.2.1
+wheel==0.24.0
