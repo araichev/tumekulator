@@ -1,7 +1,7 @@
-Tumeke Finances
+Tumeke Scripts
 ================
+Some Python 3.4+ scripts for Tumeke Cycle Space.
 
-Some analysis and visualization of the finances of Tumeke Cycle Space.
 
 Authors
 --------
