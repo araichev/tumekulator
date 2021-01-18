@@ -5,10 +5,10 @@ description = "Some tools for Tumeke Cycle Space"
 authors = ["Alex Raichev <alex@raichev.net>"]
 
 [tool.poetry.dependencies]
-python = "^3.6"
-pandas = "^0.24.0"
-jupyter = "^1.0"
-python-highcharts = "^0.4.2"
+python = "^3.8"
+pandas = "<2"
+jupyter = "<2"
+python-highcharts = "<1"
 
 [tool.poetry.dev-dependencies]
 
